@@ -42,7 +42,7 @@ roslaunch gl_ros_driver view_gl_ros_driver.launch
 
 ## Test environment
 - ROS Melodic Morenia and ROS Kinetic Kame
-- Ubuntu 16.04 and Ubuntu 18.04
+- Ubuntu 18.04
 - x86_64 (PC), aarch64 (Jetson series)
 
 ## Application demo
