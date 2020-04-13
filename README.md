@@ -41,7 +41,7 @@ roslaunch gl_ros_driver view_gl_ros_driver.launch
 - _scan_ (sensor_msgs/LaserScan): it publishes scan topic from the laser.
 
 ## Test environment
-- ROS Melodic Morenia and ROS Kinetic Kame
+- ROS Melodic Morenia
 - Ubuntu 18.04
 - x86_64 (PC), aarch64 (Jetson series)
 
